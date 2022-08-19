@@ -9,10 +9,21 @@ git clone https://github.com/JHSeo-git/boilerplate-yarn-2-monorepo.git my-projec
 
 cd my-project
 
-yarn # or npm install
+# no required yarn or npm install.
+# this repo is a yarn 2 zero-install repo.
+```
+
+## Clear
+
+```bash
+rm rf .git
+
+git init
 ```
 
 ## Configuration
+
+you make and use workspaces in `apps/`, `packages/`.
 
 - package.json
 
