@@ -1,0 +1,7 @@
+{
+  "name": "@boilerplate-yarn-2-monorepo/sample",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "packageManager": "yarn@3.2.2"
+}
