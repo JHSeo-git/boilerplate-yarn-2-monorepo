@@ -36,3 +36,8 @@ you make and use workspaces in `apps/`, `packages/`.
 `yarn dev`
 
 - Run concurrently workspaces's dev
+
+## samples
+
+- nextjs app
+- node package
