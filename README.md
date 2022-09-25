@@ -9,11 +9,14 @@ git clone https://github.com/JHSeo-git/boilerplate-yarn-2-monorepo.git my-projec
 
 cd my-project
 
-# no required yarn or npm install.
-# this repo is a yarn 2 zero-install repo.
+# yarn install
+yarn
+
+# yarn dlx install
+yarn dlx @yarnpkg/sdks vscode
 ```
 
-## Clear
+## Git Clear
 
 ```bash
 rm rf .git
